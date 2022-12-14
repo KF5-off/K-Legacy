@@ -8,7 +8,7 @@ For additional questions, do not hesitate to contact us in SUPPORT_EMAIL
 
 ## Consent
 
-By using NOM_DU_BOT (as referred collectively - "Service"), you consent to our Privacy Policy and agree to its Terms. 
+By using K-Verif (as referred collectively - "Service"), you consent to our Privacy Policy and agree to its Terms. 
 
 ## Information We Collect
 
@@ -50,5 +50,5 @@ This Privacy Policy is effective as of **August 25th, 2022**, and will remain in
 ## Contact
 In order to resolve a complaint regarding the "Service", or to receive further information regarding use of it, please contact us at:
 
-**Email**: SUPPORT_EMAIL
-**Discord**: DISCORD_TAG
+**Email**: ofsl.k@proton.me
+**Discord**: K__#1157
