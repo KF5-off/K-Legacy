@@ -1,5 +1,5 @@
 # Terms of Service
-By using NOM_DU_BOT - which is collectively referred to as the "Service" - you, whether personally or on behalf of an entity, agree with the following Terms. If you disagree with any sections and/or any portions of these Terms, you are expressively prohibited from accessing the "Service".
+By using K-Verif - which is collectively referred to as the "Service" - you, whether personally or on behalf of an entity, agree with the following Terms. If you disagree with any sections and/or any portions of these Terms, you are expressively prohibited from accessing the "Service".
 
 ## Terms
 By using the "Service", you immediately agree that you accept the Discord Terms of Service, and agree that your account can be suspended from using the "Service" if you violate the Discord Terms of Service in any way.
@@ -27,5 +27,5 @@ While you have the rights to appeal your suspension to the "Service", we do not 
 ## Contact
 In order to resolve a complaint regarding the "Service", or to receive further information regarding use of it, please contact us at:
 
-**Email**: SUPPORT_EMAIL
-**Discord**: DISCORD_TAG
+**Email**: ofsl.k@proton.me
+**Discord**: K__#1157
